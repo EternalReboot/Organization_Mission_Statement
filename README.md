@@ -1,4 +1,3 @@
-# eternalreboot.org
 Eternal Reboot is a pioneering nonprofit organization dedicated to revolutionizing the approach towards mental health and suicide awareness. We firmly believe in leveraging the power of Artificial Intelligence and technology to reboot perspectives, offering new dimensions of understanding, empathy, and support.
 
 Our mission transcends traditional boundaries as we strive for a world where mental wellbeing is prioritized without stigma or judgment. Through advanced AI solutions, we aim to provide timely assistance while bridging gaps between individuals struggling with their mental health and resources available for help.
